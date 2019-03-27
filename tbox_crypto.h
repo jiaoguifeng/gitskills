@@ -21,7 +21,7 @@
 #include "inc/tr_tbox.h"
 #include "tbox_crypto.h"
 
-
+//modify for this
 static AES_KEY aec_enc, aec_dec;
 static uint8_t aes_key[16];
 // aes_iv is fixed
